@@ -1,0 +1,9 @@
+#sticky-footer {
+    flex-shrink: none;
+}
+a{
+    color:white;
+}
+a:hover {
+    color: orange;
+  }
